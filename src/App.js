@@ -53,7 +53,7 @@ function App() {
           <CiClock2 />
           09:00-20:00
           <br />
-          har Kuni
+          Har Kuni
           <br />tanaffuslar va dam olish kunlarisiz
         </a>
         <a href="tell:+998983077005" className="call_me">
